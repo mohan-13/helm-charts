@@ -2,13 +2,13 @@ apiVersion: v1
 entries:
   sample1:
   - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2022-04-29T13:33:11.767380253Z"
+    appVersion: 1.16.1
+    created: "2022-04-29T13:36:35.229139162Z"
     description: My Sample Helm Chart
-    digest: 29366b83cea9cb9ee1167d309d83e80fb81f864c6bf8838a011853bc5da76589
+    digest: f1435a75177738a19adff770740e26ddab8f61919ee458d6aa854ca26189808a
     name: sample1
     type: application
     urls:
     - https://mohan-13.github.io/helm-charts/sample1-0.1.2.tgz
     version: 0.1.2
-generated: "2022-04-29T13:33:11.765640993Z"
+generated: "2022-04-29T13:36:35.227184941Z"
