@@ -3,7 +3,17 @@ entries:
   openmrs:
   - apiVersion: v2
     appVersion: 1.16.1
-    created: "2022-05-02T11:04:10.019526601Z"
+    created: "2022-05-02T11:14:29.428556903Z"
+    description: My Sample Helm Chart
+    digest: 083644b70079e6ba3e1e3e0c7550084c7a7a6abdaeee0ec03cf05a7d5f89a1b2
+    name: openmrs
+    type: application
+    urls:
+    - https://mohan-13.github.io/helm-charts/openmrs/openmrs-1.0.0-41.tgz
+    version: 1.0.0-41
+  - apiVersion: v2
+    appVersion: 1.16.1
+    created: "2022-05-02T11:14:29.427988992Z"
     description: My Sample Helm Chart
     digest: 5a31127fc943369a20fa988f59dcafda127eed39258b4516368bc6a145288fff
     name: openmrs
@@ -13,7 +23,7 @@ entries:
     version: 0.94-40
   - apiVersion: v2
     appVersion: 1.16.1
-    created: "2022-05-02T11:04:10.01873729Z"
+    created: "2022-05-02T11:14:29.427471582Z"
     description: My Sample Helm Chart
     digest: c4efa7d0002be2704717680c36b9bd321335a919ffe7c672ff09c09d55ad7c66
     name: openmrs
@@ -24,7 +34,7 @@ entries:
   sample1:
   - apiVersion: v2
     appVersion: 1.16.1
-    created: "2022-05-02T11:04:10.018296183Z"
+    created: "2022-05-02T11:14:29.427016673Z"
     description: My Sample Helm Chart
     digest: 9a77d0dc1449e0b7be48d6095aa7aecb0dfb56c9921a8e9225926a945ce20250
     name: sample1
@@ -34,7 +44,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 1.16.1
-    created: "2022-05-02T11:04:10.017886478Z"
+    created: "2022-05-02T11:14:29.426562864Z"
     description: My Sample Helm Chart
     digest: 4efe1e773cfdac7dbc6e8a70ccdd6da50a92c3d81bf344d938a67494da5e30d5
     name: sample1
@@ -44,7 +54,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.16.1
-    created: "2022-05-02T11:04:10.017475472Z"
+    created: "2022-05-02T11:14:29.426114855Z"
     description: My Sample Helm Chart
     digest: f1435a75177738a19adff770740e26ddab8f61919ee458d6aa854ca26189808a
     name: sample1
@@ -52,4 +62,4 @@ entries:
     urls:
     - https://mohan-13.github.io/helm-charts/sample1-0.1.2.tgz
     version: 0.1.2
-generated: "2022-05-02T11:04:10.016860663Z"
+generated: "2022-05-02T11:14:29.425196237Z"
