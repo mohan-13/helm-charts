@@ -3,7 +3,7 @@ entries:
   openmrs:
   - apiVersion: v2
     appVersion: 1.16.1
-    created: "2022-05-04T14:56:16.182488949Z"
+    created: "2022-05-05T12:20:38.73420221Z"
     description: My Sample Helm Chart
     digest: 083644b70079e6ba3e1e3e0c7550084c7a7a6abdaeee0ec03cf05a7d5f89a1b2
     name: openmrs
@@ -12,7 +12,16 @@ entries:
     - https://mohan-13.github.io/helm-charts/openmrs/openmrs-1.0.0-41.tgz
     version: 1.0.0-41
   - apiVersion: v2
-    created: "2022-05-04T14:56:16.18175524Z"
+    created: "2022-05-05T12:20:38.733796314Z"
+    description: My Sample Helm Chart
+    digest: fbbe0d982f07ba669603c61cb644c52985f73db53654eefc7d2bfbbcd56367ae
+    name: openmrs
+    type: application
+    urls:
+    - https://mohan-13.github.io/helm-charts/openmrs/openmrs-1.0.0-0.94-54.tgz
+    version: 1.0.0-0.94-54
+  - apiVersion: v2
+    created: "2022-05-05T12:20:38.733401119Z"
     description: My Sample Helm Chart
     digest: 76b98a79e738aa8e23b6b5bc867b1631c16a7d69010b94f6aae743cf103dc938
     name: openmrs
@@ -21,7 +30,7 @@ entries:
     - https://mohan-13.github.io/helm-charts/openmrs/openmrs-1.0.0-0.94-52.tgz
     version: 1.0.0-0.94-52
   - apiVersion: v2
-    created: "2022-05-04T14:56:16.18091203Z"
+    created: "2022-05-05T12:20:38.732977123Z"
     description: My Sample Helm Chart
     digest: 405a91a59852f4f709f375f2f17ef4ab28e085868c3ff112d29ea9c4de60fd34
     name: openmrs
@@ -30,7 +39,7 @@ entries:
     - https://mohan-13.github.io/helm-charts/openmrs/openmrs-1.0.0-0.94-50.tgz
     version: 1.0.0-0.94-50
   - apiVersion: v2
-    created: "2022-05-04T14:56:16.180391824Z"
+    created: "2022-05-05T12:20:38.732579228Z"
     description: My Sample Helm Chart
     digest: f748d073196cf0fa85a78d85550dbb60afb663aec3eacaaa930c3cc82f4b0b5c
     name: openmrs
@@ -39,7 +48,7 @@ entries:
     - https://mohan-13.github.io/helm-charts/openmrs/openmrs-1.0.0-0.94-48.tgz
     version: 1.0.0-0.94-48
   - apiVersion: v2
-    created: "2022-05-04T14:56:16.179823217Z"
+    created: "2022-05-05T12:20:38.732172732Z"
     description: My Sample Helm Chart
     digest: 20a3d9442bf7e6ae18e34ecc7322bb290d01f1a9e515bd7b5e69a3b84e4c5c1d
     name: openmrs
@@ -49,7 +58,7 @@ entries:
     version: 1.0.0-0.94-46
   - apiVersion: v2
     appVersion: 0.94-45
-    created: "2022-05-04T14:56:16.179151709Z"
+    created: "2022-05-05T12:20:38.731756637Z"
     description: My Sample Helm Chart
     digest: 00e068630c0b2289ab755783acc389fcd5e57b991389b64e9f1c211b814034f6
     name: openmrs
@@ -59,7 +68,7 @@ entries:
     version: 1.0.0-0.94-45
   - apiVersion: v2
     appVersion: 0.94-42
-    created: "2022-05-04T14:56:16.178149498Z"
+    created: "2022-05-05T12:20:38.731280042Z"
     description: My Sample Helm Chart
     digest: 4f2daf0b27a7f4b66af27847c4abd21216f8c13c04f1903afc9e62f58bc419aa
     name: openmrs
@@ -69,7 +78,7 @@ entries:
     version: 1.0.0-0.94-42
   - apiVersion: v2
     appVersion: 1.16.1
-    created: "2022-05-04T14:56:16.164444636Z"
+    created: "2022-05-05T12:20:38.730844347Z"
     description: My Sample Helm Chart
     digest: 5a31127fc943369a20fa988f59dcafda127eed39258b4516368bc6a145288fff
     name: openmrs
@@ -79,7 +88,7 @@ entries:
     version: 0.94-40
   - apiVersion: v2
     appVersion: 1.16.1
-    created: "2022-05-04T14:56:16.163815929Z"
+    created: "2022-05-05T12:20:38.730419052Z"
     description: My Sample Helm Chart
     digest: c4efa7d0002be2704717680c36b9bd321335a919ffe7c672ff09c09d55ad7c66
     name: openmrs
@@ -90,7 +99,7 @@ entries:
   sample1:
   - apiVersion: v2
     appVersion: 1.16.1
-    created: "2022-05-04T14:56:16.163220622Z"
+    created: "2022-05-05T12:20:38.729958157Z"
     description: My Sample Helm Chart
     digest: 9a77d0dc1449e0b7be48d6095aa7aecb0dfb56c9921a8e9225926a945ce20250
     name: sample1
@@ -100,7 +109,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 1.16.1
-    created: "2022-05-04T14:56:16.162641615Z"
+    created: "2022-05-05T12:20:38.729425563Z"
     description: My Sample Helm Chart
     digest: 4efe1e773cfdac7dbc6e8a70ccdd6da50a92c3d81bf344d938a67494da5e30d5
     name: sample1
@@ -110,7 +119,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.16.1
-    created: "2022-05-04T14:56:16.162033608Z"
+    created: "2022-05-05T12:20:38.728618572Z"
     description: My Sample Helm Chart
     digest: f1435a75177738a19adff770740e26ddab8f61919ee458d6aa854ca26189808a
     name: sample1
@@ -118,4 +127,4 @@ entries:
     urls:
     - https://mohan-13.github.io/helm-charts/sample1-0.1.2.tgz
     version: 0.1.2
-generated: "2022-05-04T14:56:16.161231798Z"
+generated: "2022-05-05T12:20:38.727433885Z"
