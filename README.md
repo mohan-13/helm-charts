@@ -1,1 +1,1 @@
-Repository to store my helm charts.
+Repository to store my helm charts
