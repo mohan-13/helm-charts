@@ -1,0 +1,9 @@
+name: Deploy
+on:
+  workflow_run:
+    workflows: [pages-build-deployment]
+jobs:
+  sample:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Done"
